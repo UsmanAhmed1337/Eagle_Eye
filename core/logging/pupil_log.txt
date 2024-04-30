@@ -1,0 +1,7 @@
+2024-04-30 12:22:46 - Left pupil: None - Right pupil: None
+2024-04-30 12:22:47 - Left pupil: (987, 640) - Right pupil: (1151, 639)
+2024-04-30 12:22:48 - Left pupil: (1036, 605) - Right pupil: (1200, 610)
+2024-04-30 12:22:49 - Left pupil: (745, 606) - Right pupil: (875, 612)
+2024-04-30 12:22:50 - Left pupil: None - Right pupil: None
+2024-04-30 12:22:51 - Left pupil: None - Right pupil: None
+2024-04-30 12:22:52 - Left pupil: None - Right pupil: None

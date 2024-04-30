@@ -1,14 +1,20 @@
 import cv2
+import logging
+import time
 from utils import GazeTracking
+
+
+logging.basicConfig(filename='./core/logging/pupil_log.txt', level=logging.INFO, 
+                    format='%(asctime)s - %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
+
+last_logged_time = time.time()
 
 gaze = GazeTracking()
 webcam = cv2.VideoCapture(0)
 
 while True:
-    # We get a new frame from the webcam
     _, frame = webcam.read()
 
-    # We send this frame to GazeTracking to analyze it
     gaze.refresh(frame)
 
     frame = gaze.annotated_frame()
@@ -27,6 +33,12 @@ while True:
 
     left_pupil = gaze.pupil_left_coords()
     right_pupil = gaze.pupil_right_coords()
+
+    current_time = time.time()
+    if current_time - last_logged_time >= 1:  
+        logging.info(f'Left pupil: {left_pupil} - Right pupil: {right_pupil}')
+        last_logged_time = current_time
+
     cv2.putText(frame, "Left pupil:  " + str(left_pupil), (90, 130), cv2.FONT_HERSHEY_DUPLEX, 0.9, (147, 58, 31), 1)
     cv2.putText(frame, "Right pupil: " + str(right_pupil), (90, 165), cv2.FONT_HERSHEY_DUPLEX, 0.9, (147, 58, 31), 1)
 
