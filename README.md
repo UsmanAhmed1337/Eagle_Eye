@@ -23,3 +23,7 @@ Ensure you have Python installed on your system. You can download Python from [h
    ```bash
    pip install -r requirements.txt
 
+### Run the demo
+1. ```bash
+   python core/main.py
+
