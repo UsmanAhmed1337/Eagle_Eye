@@ -5,3 +5,284 @@
 2024-04-30 12:22:50 - Left pupil: None - Right pupil: None
 2024-04-30 12:22:51 - Left pupil: None - Right pupil: None
 2024-04-30 12:22:52 - Left pupil: None - Right pupil: None
+2024-05-01 12:14:01 - Left pupil: None - Right pupil: None
+2024-05-01 12:14:02 - Left pupil: None - Right pupil: None
+2024-05-01 12:14:03 - Left pupil: None - Right pupil: None
+2024-05-01 12:14:04 - Left pupil: None - Right pupil: None
+2024-05-01 12:14:05 - Left pupil: None - Right pupil: None
+2024-05-01 12:14:28 - Left pupil: None - Right pupil: None
+2024-05-01 12:14:29 - Left pupil: None - Right pupil: None
+2024-05-01 12:14:31 - Left pupil: (1032, 657) - Right pupil: (1223, 663)
+2024-05-01 12:14:32 - Left pupil: (1098, 862) - Right pupil: (1293, 869)
+2024-05-01 12:14:33 - Left pupil: None - Right pupil: None
+2024-05-01 12:14:34 - Left pupil: (1056, 863) - Right pupil: (1261, 869)
+2024-05-01 12:14:35 - Left pupil: (1159, 858) - Right pupil: (1361, 871)
+2024-05-01 12:14:36 - Left pupil: (1036, 868) - Right pupil: (1240, 869)
+2024-05-01 12:14:37 - Left pupil: (1116, 855) - Right pupil: (1318, 860)
+2024-05-01 12:14:38 - Left pupil: (1136, 887) - Right pupil: (1311, 894)
+2024-05-01 12:14:39 - Left pupil: (1142, 918) - Right pupil: (1325, 929)
+2024-05-01 12:14:40 - Left pupil: (1168, 923) - Right pupil: (1334, 930)
+2024-05-01 12:14:42 - Left pupil: (1140, 904) - Right pupil: (1347, 914)
+2024-05-01 12:14:43 - Left pupil: (1119, 857) - Right pupil: (1317, 865)
+2024-05-01 12:14:44 - Left pupil: (1132, 849) - Right pupil: (1317, 856)
+2024-05-01 12:14:45 - Left pupil: (1142, 900) - Right pupil: (1332, 898)
+2024-05-01 12:14:46 - Left pupil: (1037, 902) - Right pupil: (1218, 897)
+2024-05-01 12:14:47 - Left pupil: (912, 948) - Right pupil: (1110, 941)
+2024-05-01 12:14:48 - Left pupil: (934, 942) - Right pupil: (1133, 931)
+2024-05-01 12:14:49 - Left pupil: (1014, 911) - Right pupil: (1210, 912)
+2024-05-01 12:14:50 - Left pupil: (1004, 951) - Right pupil: (1176, 951)
+2024-05-01 12:14:52 - Left pupil: None - Right pupil: None
+2024-05-01 12:14:53 - Left pupil: None - Right pupil: None
+2024-05-01 12:14:54 - Left pupil: None - Right pupil: None
+2024-05-01 12:14:55 - Left pupil: None - Right pupil: None
+2024-05-01 12:14:56 - Left pupil: None - Right pupil: None
+2024-05-01 12:14:57 - Left pupil: None - Right pupil: None
+2024-05-01 12:14:58 - Left pupil: None - Right pupil: None
+2024-05-01 12:14:59 - Left pupil: None - Right pupil: None
+2024-05-01 12:15:00 - Left pupil: None - Right pupil: None
+2024-05-01 12:15:01 - Left pupil: (1018, 964) - Right pupil: (1197, 964)
+2024-05-01 12:15:02 - Left pupil: (1010, 960) - Right pupil: (1196, 961)
+2024-05-01 12:15:03 - Left pupil: (1004, 907) - Right pupil: (1184, 906)
+2024-05-01 12:15:05 - Left pupil: (991, 903) - Right pupil: (1151, 896)
+2024-05-01 12:15:06 - Left pupil: (996, 917) - Right pupil: (1154, 908)
+2024-05-01 12:15:07 - Left pupil: None - Right pupil: None
+2024-05-01 12:15:08 - Left pupil: None - Right pupil: None
+2024-05-01 12:15:09 - Left pupil: None - Right pupil: None
+2024-05-01 12:15:10 - Left pupil: (1076, 707) - Right pupil: (1250, 717)
+2024-05-01 12:15:11 - Left pupil: (968, 796) - Right pupil: (1150, 791)
+2024-05-01 12:15:12 - Left pupil: (925, 802) - Right pupil: (1096, 789)
+2024-05-01 12:15:14 - Left pupil: (970, 793) - Right pupil: (1150, 786)
+2024-05-01 12:15:15 - Left pupil: (932, 805) - Right pupil: (1108, 793)
+2024-05-01 12:15:16 - Left pupil: (972, 801) - Right pupil: (1155, 791)
+2024-05-01 12:15:17 - Left pupil: (949, 806) - Right pupil: (1128, 794)
+2024-05-01 12:15:18 - Left pupil: (966, 804) - Right pupil: (1149, 794)
+2024-05-01 12:15:19 - Left pupil: (946, 815) - Right pupil: (1123, 810)
+2024-05-01 12:15:20 - Left pupil: (966, 810) - Right pupil: (1147, 799)
+2024-05-01 12:15:21 - Left pupil: (1023, 869) - Right pupil: (1192, 872)
+2024-05-01 12:28:51 - Left pupil: None - Right pupil: None
+2024-05-01 12:28:52 - Left pupil: None - Right pupil: None
+2024-05-01 12:28:53 - Left pupil: None - Right pupil: None
+2024-05-01 12:28:54 - Left pupil: None - Right pupil: None
+2024-05-01 12:28:55 - Left pupil: None - Right pupil: None
+2024-05-01 12:28:56 - Left pupil: None - Right pupil: None
+2024-05-01 12:28:57 - Left pupil: None - Right pupil: None
+2024-05-01 12:28:59 - Left pupil: None - Right pupil: None
+2024-05-01 12:29:00 - Left pupil: None - Right pupil: None
+2024-05-01 12:29:01 - Left pupil: None - Right pupil: None
+2024-05-01 12:29:02 - Left pupil: None - Right pupil: None
+2024-05-01 12:29:03 - Left pupil: None - Right pupil: None
+2024-05-01 12:29:04 - Left pupil: None - Right pupil: None
+2024-05-01 12:29:05 - Left pupil: None - Right pupil: None
+2024-05-01 12:29:06 - Left pupil: None - Right pupil: None
+2024-05-01 12:29:07 - Left pupil: None - Right pupil: None
+2024-05-01 12:29:08 - Left pupil: None - Right pupil: None
+2024-05-01 12:29:10 - Left pupil: None - Right pupil: None
+2024-05-01 12:29:11 - Left pupil: None - Right pupil: None
+2024-05-01 12:29:12 - Left pupil: None - Right pupil: None
+2024-05-01 12:29:13 - Left pupil: None - Right pupil: None
+2024-05-01 12:29:14 - Left pupil: None - Right pupil: None
+2024-05-01 12:29:15 - Left pupil: None - Right pupil: None
+2024-05-01 12:29:16 - Left pupil: None - Right pupil: None
+2024-05-01 12:29:17 - Left pupil: None - Right pupil: None
+2024-05-01 12:29:18 - Left pupil: None - Right pupil: None
+2024-05-01 12:32:02 - Left pupil: None - Right pupil: None
+2024-05-01 12:32:04 - Left pupil: (935, 739) - Right pupil: (1126, 741)
+2024-05-01 12:32:05 - Left pupil: (993, 702) - Right pupil: (1177, 709)
+2024-05-01 12:32:06 - Left pupil: (1006, 705) - Right pupil: (1191, 715)
+2024-05-01 12:32:07 - Left pupil: (1003, 705) - Right pupil: (1189, 715)
+2024-05-01 12:32:10 - Left pupil: (946, 735) - Right pupil: (1136, 741)
+2024-05-01 12:32:11 - Left pupil: (951, 729) - Right pupil: (1149, 731)
+2024-05-01 12:32:12 - Left pupil: (993, 743) - Right pupil: (1189, 752)
+2024-05-01 12:32:33 - Left pupil: None - Right pupil: None
+2024-05-01 12:32:34 - Left pupil: (951, 765) - Right pupil: (1135, 773)
+2024-05-01 12:32:36 - Left pupil: (1006, 735) - Right pupil: (1190, 741)
+2024-05-01 12:32:37 - Left pupil: (1035, 688) - Right pupil: (1234, 693)
+2024-05-01 12:32:38 - Left pupil: (1145, 628) - Right pupil: (1396, 622)
+2024-05-01 12:32:39 - Left pupil: None - Right pupil: None
+2024-05-01 12:32:40 - Left pupil: (1006, 659) - Right pupil: (1208, 669)
+2024-05-01 12:32:41 - Left pupil: (928, 813) - Right pupil: (1101, 817)
+2024-05-01 12:32:42 - Left pupil: (966, 777) - Right pupil: (1147, 783)
+2024-05-01 12:32:44 - Left pupil: (948, 795) - Right pupil: (1125, 792)
+2024-05-01 12:32:45 - Left pupil: (929, 787) - Right pupil: (1100, 786)
+2024-05-01 12:32:46 - Left pupil: (926, 775) - Right pupil: (1100, 776)
+2024-05-01 12:32:47 - Left pupil: (951, 794) - Right pupil: (1125, 801)
+2024-05-01 12:32:48 - Left pupil: (903, 816) - Right pupil: (1080, 825)
+2024-05-01 12:32:49 - Left pupil: (858, 805) - Right pupil: (1038, 799)
+2024-05-01 12:32:50 - Left pupil: (917, 771) - Right pupil: (1111, 773)
+2024-05-01 12:32:51 - Left pupil: (910, 779) - Right pupil: (1097, 781)
+2024-05-01 12:32:52 - Left pupil: (918, 783) - Right pupil: (1090, 791)
+2024-05-01 12:32:54 - Left pupil: (926, 773) - Right pupil: (1106, 779)
+2024-05-01 12:32:55 - Left pupil: (949, 766) - Right pupil: (1122, 775)
+2024-05-01 12:32:56 - Left pupil: (917, 763) - Right pupil: (1083, 766)
+2024-05-01 12:32:57 - Left pupil: (926, 787) - Right pupil: (1093, 790)
+2024-05-01 12:32:58 - Left pupil: (944, 796) - Right pupil: (1108, 803)
+2024-05-01 12:33:03 - Left pupil: None - Right pupil: None
+2024-05-01 12:33:04 - Left pupil: (969, 705) - Right pupil: (1156, 713)
+2024-05-01 12:33:05 - Left pupil: (981, 710) - Right pupil: (1165, 717)
+2024-05-01 12:33:06 - Left pupil: (968, 716) - Right pupil: (1148, 720)
+2024-05-01 12:33:08 - Left pupil: None - Right pupil: None
+2024-05-01 12:33:09 - Left pupil: None - Right pupil: None
+2024-05-01 12:33:10 - Left pupil: (902, 800) - Right pupil: (1083, 801)
+2024-05-01 12:33:11 - Left pupil: None - Right pupil: None
+2024-05-01 12:33:12 - Left pupil: (904, 796) - Right pupil: (1092, 801)
+2024-05-01 12:33:13 - Left pupil: (959, 831) - Right pupil: (1135, 838)
+2024-05-01 12:33:18 - Left pupil: None - Right pupil: None
+2024-05-01 12:33:19 - Left pupil: (939, 765) - Right pupil: (1126, 767)
+2024-05-01 12:33:20 - Left pupil: None - Right pupil: None
+2024-05-01 12:33:21 - Left pupil: None - Right pupil: None
+2024-05-01 12:33:22 - Left pupil: (1180, 735) - Right pupil: (1393, 739)
+2024-05-01 12:33:23 - Left pupil: (1175, 743) - Right pupil: (1391, 743)
+2024-05-01 12:33:24 - Left pupil: (1049, 727) - Right pupil: (1214, 736)
+2024-05-01 12:33:25 - Left pupil: (967, 780) - Right pupil: (1109, 783)
+2024-05-01 12:33:26 - Left pupil: (951, 724) - Right pupil: (1123, 732)
+2024-05-01 12:33:28 - Left pupil: (917, 741) - Right pupil: (1084, 741)
+2024-05-01 12:33:29 - Left pupil: (909, 752) - Right pupil: (1073, 750)
+2024-05-01 12:33:30 - Left pupil: (919, 760) - Right pupil: (1083, 760)
+2024-05-01 12:33:31 - Left pupil: (972, 786) - Right pupil: (1140, 799)
+2024-05-01 12:33:32 - Left pupil: (945, 769) - Right pupil: (1115, 776)
+2024-05-01 12:33:33 - Left pupil: (936, 809) - Right pupil: (1109, 816)
+2024-05-01 12:33:36 - Left pupil: None - Right pupil: None
+2024-05-01 12:33:37 - Left pupil: (879, 763) - Right pupil: (1058, 770)
+2024-05-01 12:33:38 - Left pupil: (938, 777) - Right pupil: (1123, 786)
+2024-05-01 12:33:39 - Left pupil: None - Right pupil: None
+2024-05-01 12:33:40 - Left pupil: (1096, 755) - Right pupil: (1299, 761)
+2024-05-01 12:33:41 - Left pupil: None - Right pupil: None
+2024-05-01 12:33:43 - Left pupil: None - Right pupil: None
+2024-05-01 12:33:44 - Left pupil: (1068, 751) - Right pupil: (1267, 758)
+2024-05-01 12:33:45 - Left pupil: (1052, 681) - Right pupil: (1242, 684)
+2024-05-01 12:33:46 - Left pupil: None - Right pupil: None
+2024-05-01 12:33:47 - Left pupil: None - Right pupil: None
+2024-05-01 12:33:48 - Left pupil: None - Right pupil: None
+2024-05-01 12:33:49 - Left pupil: None - Right pupil: None
+2024-05-01 12:33:50 - Left pupil: (963, 722) - Right pupil: (1148, 719)
+2024-05-01 12:33:51 - Left pupil: None - Right pupil: None
+2024-05-01 12:34:32 - Left pupil: None - Right pupil: None
+2024-05-01 12:34:33 - Left pupil: (944, 750) - Right pupil: (1130, 756)
+2024-05-01 12:34:35 - Left pupil: (1034, 762) - Right pupil: (1216, 768)
+2024-05-01 12:34:36 - Left pupil: (1112, 770) - Right pupil: (1312, 777)
+2024-05-01 12:34:37 - Left pupil: (1114, 769) - Right pupil: (1306, 776)
+2024-05-01 12:34:38 - Left pupil: (919, 794) - Right pupil: (1102, 797)
+2024-05-01 12:34:39 - Left pupil: (948, 807) - Right pupil: (1120, 814)
+2024-05-01 12:34:40 - Left pupil: (941, 806) - Right pupil: (1114, 808)
+2024-05-01 12:34:41 - Left pupil: (943, 791) - Right pupil: (1110, 797)
+2024-05-01 12:34:46 - Left pupil: None - Right pupil: None
+2024-05-01 12:34:47 - Left pupil: (1092, 771) - Right pupil: (1297, 779)
+2024-05-01 12:34:48 - Left pupil: None - Right pupil: None
+2024-05-01 12:34:49 - Left pupil: (1129, 752) - Right pupil: (1349, 751)
+2024-05-01 12:34:50 - Left pupil: (1126, 757) - Right pupil: (1340, 758)
+2024-05-01 12:34:51 - Left pupil: (1121, 757) - Right pupil: (1333, 756)
+2024-05-01 12:34:53 - Left pupil: (1120, 759) - Right pupil: (1333, 758)
+2024-05-01 12:34:54 - Left pupil: (1066, 762) - Right pupil: (1272, 764)
+2024-05-01 12:34:55 - Left pupil: (1013, 770) - Right pupil: (1213, 778)
+2024-05-01 12:34:56 - Left pupil: (943, 790) - Right pupil: (1139, 793)
+2024-05-01 12:34:57 - Left pupil: (952, 801) - Right pupil: (1129, 807)
+2024-05-01 12:34:58 - Left pupil: (885, 793) - Right pupil: (1068, 791)
+2024-05-01 12:34:59 - Left pupil: (863, 805) - Right pupil: (1040, 796)
+2024-05-01 12:35:00 - Left pupil: (914, 819) - Right pupil: (1091, 819)
+2024-05-01 12:35:01 - Left pupil: (898, 800) - Right pupil: (1062, 807)
+2024-05-01 12:35:02 - Left pupil: (941, 752) - Right pupil: (1120, 760)
+2024-05-01 12:35:03 - Left pupil: (966, 760) - Right pupil: (1141, 769)
+2024-05-01 12:35:10 - Left pupil: None - Right pupil: None
+2024-05-01 12:35:11 - Left pupil: (1091, 778) - Right pupil: (1295, 786)
+2024-05-01 12:35:12 - Left pupil: None - Right pupil: None
+2024-05-01 12:35:13 - Left pupil: (1069, 759) - Right pupil: (1262, 758)
+2024-05-01 12:35:15 - Left pupil: (1073, 759) - Right pupil: (1265, 759)
+2024-05-01 12:35:16 - Left pupil: (1068, 762) - Right pupil: (1259, 764)
+2024-05-01 12:52:15 - Left pupil: None - Right pupil: None
+2024-05-01 12:52:16 - Left pupil: None - Right pupil: None
+2024-05-01 12:52:17 - Left pupil: (948, 450) - Right pupil: (1091, 456)
+2024-05-01 12:52:19 - Left pupil: (949, 452) - Right pupil: (1094, 452)
+2024-05-01 12:52:20 - Left pupil: None - Right pupil: None
+2024-05-01 12:52:21 - Left pupil: None - Right pupil: None
+2024-05-01 12:52:22 - Left pupil: None - Right pupil: None
+2024-05-01 12:52:23 - Left pupil: None - Right pupil: None
+2024-05-01 12:52:24 - Left pupil: (896, 526) - Right pupil: (1048, 519)
+2024-05-01 12:52:25 - Left pupil: (914, 479) - Right pupil: (1062, 478)
+2024-05-01 12:52:26 - Left pupil: (912, 470) - Right pupil: (1062, 469)
+2024-05-01 12:52:27 - Left pupil: (920, 469) - Right pupil: (1058, 466)
+2024-05-01 12:52:28 - Left pupil: (926, 478) - Right pupil: (1063, 476)
+2024-05-01 12:52:30 - Left pupil: None - Right pupil: None
+2024-05-01 12:52:31 - Left pupil: None - Right pupil: None
+2024-05-01 12:52:32 - Left pupil: (822, 457) - Right pupil: (961, 455)
+2024-05-01 12:52:33 - Left pupil: (716, 504) - Right pupil: (860, 490)
+2024-05-01 12:53:56 - Left pupil: None - Right pupil: None
+2024-05-01 12:53:57 - Left pupil: None - Right pupil: None
+2024-05-01 12:53:58 - Left pupil: None - Right pupil: None
+2024-05-01 12:53:59 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:00 - Left pupil: (882, 590) - Right pupil: (1040, 583)
+2024-05-01 12:54:01 - Left pupil: (851, 581) - Right pupil: (995, 579)
+2024-05-01 12:54:02 - Left pupil: (870, 571) - Right pupil: (1009, 573)
+2024-05-01 12:54:03 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:05 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:06 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:07 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:08 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:09 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:10 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:11 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:13 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:14 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:15 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:16 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:17 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:18 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:19 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:20 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:21 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:22 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:23 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:25 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:26 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:27 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:28 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:36 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:37 - Left pupil: (847, 610) - Right pupil: (999, 607)
+2024-05-01 12:54:38 - Left pupil: (845, 611) - Right pupil: (1003, 609)
+2024-05-01 12:54:40 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:41 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:42 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:43 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:44 - Left pupil: (822, 629) - Right pupil: (980, 610)
+2024-05-01 12:54:45 - Left pupil: (828, 615) - Right pupil: (989, 601)
+2024-05-01 12:54:46 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:47 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:48 - Left pupil: (842, 642) - Right pupil: (995, 627)
+2024-05-01 12:54:49 - Left pupil: (850, 631) - Right pupil: (1006, 619)
+2024-05-01 12:54:51 - Left pupil: (853, 630) - Right pupil: (1010, 618)
+2024-05-01 12:54:52 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:53 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:54 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:55 - Left pupil: (842, 642) - Right pupil: (999, 626)
+2024-05-01 12:54:56 - Left pupil: (852, 644) - Right pupil: (1009, 631)
+2024-05-01 12:54:57 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:58 - Left pupil: None - Right pupil: None
+2024-05-01 12:54:59 - Left pupil: None - Right pupil: None
+2024-05-01 12:55:00 - Left pupil: (949, 630) - Right pupil: (1084, 644)
+2024-05-01 12:55:01 - Left pupil: None - Right pupil: None
+2024-05-01 12:55:02 - Left pupil: (955, 675) - Right pupil: (1084, 681)
+2024-05-01 12:55:03 - Left pupil: (932, 658) - Right pupil: (1071, 658)
+2024-05-01 12:55:04 - Left pupil: (954, 661) - Right pupil: (1094, 666)
+2024-05-01 12:55:06 - Left pupil: None - Right pupil: None
+2024-05-01 12:55:07 - Left pupil: None - Right pupil: None
+2024-05-01 12:55:08 - Left pupil: (1040, 683) - Right pupil: (1172, 692)
+2024-05-01 12:55:09 - Left pupil: (1084, 672) - Right pupil: (1221, 684)
+2024-05-01 12:55:10 - Left pupil: (1081, 679) - Right pupil: (1221, 693)
+2024-05-01 12:55:15 - Left pupil: None - Right pupil: None
+2024-05-01 12:55:16 - Left pupil: (908, 660) - Right pupil: (1053, 662)
+2024-05-01 12:55:17 - Left pupil: None - Right pupil: None
+2024-05-01 12:55:18 - Left pupil: None - Right pupil: None
+2024-05-01 12:55:19 - Left pupil: None - Right pupil: None
+2024-05-01 12:55:20 - Left pupil: (920, 682) - Right pupil: (1068, 674)
+2024-05-01 12:55:21 - Left pupil: (909, 649) - Right pupil: (1061, 647)
+2024-05-01 12:55:22 - Left pupil: (908, 663) - Right pupil: (1057, 661)
+2024-05-01 12:55:23 - Left pupil: None - Right pupil: None
+2024-05-01 12:55:24 - Left pupil: None - Right pupil: None
+2024-05-01 12:55:25 - Left pupil: None - Right pupil: None
+2024-05-01 12:55:26 - Left pupil: (994, 658) - Right pupil: (1142, 666)
+2024-05-01 12:55:27 - Left pupil: None - Right pupil: None
+2024-05-01 12:55:28 - Left pupil: (933, 677) - Right pupil: (1073, 661)
+2024-05-01 12:55:29 - Left pupil: (931, 681) - Right pupil: (1070, 662)
+2024-05-01 12:55:31 - Left pupil: None - Right pupil: None
+2024-05-01 12:55:32 - Left pupil: None - Right pupil: None
+2024-05-01 12:55:33 - Left pupil: None - Right pupil: None
+2024-05-01 12:55:34 - Left pupil: None - Right pupil: None

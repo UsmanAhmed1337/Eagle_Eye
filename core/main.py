@@ -3,10 +3,11 @@ import logging
 import time
 from utils import GazeTracking
 
-
 logging.basicConfig(filename='./core/logging/pupil_log.txt', level=logging.INFO, 
                     format='%(asctime)s - %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
 
+alert_time = 3
+time_not_focused = 0
 last_logged_time = time.time()
 
 gaze = GazeTracking()
@@ -36,11 +37,16 @@ while True:
 
     current_time = time.time()
     if current_time - last_logged_time >= 1:  
+        if(text != ""):
+            time_not_focused = -1
+        time_not_focused += 1
         logging.info(f'Left pupil: {left_pupil} - Right pupil: {right_pupil}')
         last_logged_time = current_time
 
     cv2.putText(frame, "Left pupil:  " + str(left_pupil), (90, 130), cv2.FONT_HERSHEY_DUPLEX, 0.9, (147, 58, 31), 1)
     cv2.putText(frame, "Right pupil: " + str(right_pupil), (90, 165), cv2.FONT_HERSHEY_DUPLEX, 0.9, (147, 58, 31), 1)
+    if(time_not_focused >= alert_time):
+        cv2.putText(frame, "Alert!", (90, 400), cv2.FONT_HERSHEY_DUPLEX, 9, (0,0,255), 15)
 
     cv2.imshow("Demo", frame)
 
