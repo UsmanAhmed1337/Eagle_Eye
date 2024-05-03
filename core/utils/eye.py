@@ -45,7 +45,7 @@ class Eye(object):
         region = np.array([(landmarks.part(point).x, landmarks.part(point).y) for point in points])
         region = region.astype(np.int32)
         self.landmark_points = region
-
+        
         # Applying a mask to get only the eye
         height, width = frame.shape[:2]
         black_frame = np.zeros((height, width), np.uint8)
