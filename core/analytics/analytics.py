@@ -10,7 +10,7 @@ def parse_log_entry(line):
     alert = True if 'Yes' in alert_str else False
     return timestamp, left_pupil, right_pupil, alert
 
-with open('core/logging/pupil_log.txt', 'r') as file:
+with open('core/logging/pupil.log', 'r') as file:
     log_entries = file.readlines()
 
 logs = [parse_log_entry(line.strip()) for line in log_entries if line.strip()]
