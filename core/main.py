@@ -4,35 +4,37 @@ import face_recognition
 import logging
 import time
 from utils import GazeTracking
+import gradio as gr
 
+# Initialize Logger
 logging.basicConfig(filename='./core/logging/pupil.log', level=logging.INFO, 
                     format='%(asctime)s - %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
 
-my_image = face_recognition.load_image_file("./core/data/Usman_Ahmed.jpeg")
-my_face_encoding = face_recognition.face_encodings(my_image)[0]
+# Load Face Data
+usman_image = face_recognition.load_image_file("./core/data/Usman_Ahmed.jpg")
+usman_face_encoding = face_recognition.face_encodings(usman_image)[0]
 
-known_face_encodings = [my_face_encoding]
+known_face_encodings = [usman_face_encoding]
 known_face_names = ["Usman Ahmed"]
 
-face_locations = []
-face_encodings = []
-face_names = []
 process_this_frame = True
 alert_time = 3
 time_not_focused = 0
 last_logged_time = time.time()
 
 gaze = GazeTracking()
-video_capture = cv2.VideoCapture(0)
 
-while True:
-    ret, frame = video_capture.read()
-    if not ret:
-        break
+def inference(frame):
 
+    face_locations = []
+    face_names = []
+
+    global process_this_frame, time_not_focused, last_logged_time
+    
     small_frame = cv2.resize(frame, (0, 0), fx=0.25, fy=0.25)
     rgb_small_frame = cv2.cvtColor(small_frame, cv2.COLOR_BGR2RGB)
 
+    # Face Recognition
     if process_this_frame:
         face_locations = face_recognition.face_locations(rgb_small_frame)
         face_encodings = face_recognition.face_encodings(rgb_small_frame, face_locations)
@@ -53,6 +55,7 @@ while True:
 
     process_this_frame = not process_this_frame
 
+    # Gaze Tracking
     gray_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
     faces = gaze._face_detector(gray_frame)
 
@@ -69,7 +72,7 @@ while True:
         elif gaze.is_center():
             text = "Looking center"
 
-        cv2.putText(frame, text, (90, 60 + 30*i), cv2.FONT_HERSHEY_DUPLEX, 1.6, (147, 58, 31), 2)
+        cv2.putText(frame, text, (50, 100 + 30*i), cv2.FONT_HERSHEY_DUPLEX, 1.6, (147, 58, 31), 2)
 
         left_pupil = gaze.pupil_left_coords()
         right_pupil = gaze.pupil_right_coords()
@@ -79,6 +82,7 @@ while True:
             if(text != ""):
                 time_not_focused = -1
             time_not_focused += 1
+            print(time_not_focused)
             if(time_not_focused >= alert_time):
                 cv2.putText(frame, "Alert!", (90, 400), cv2.FONT_HERSHEY_DUPLEX, 9, (0,0,255), 15)
                 logging.info(f'Person: {i} Left pupil: {left_pupil} - Right pupil: {right_pupil} - Alert: Yes')
@@ -96,12 +100,13 @@ while True:
         cv2.rectangle(frame, (left, bottom - 35), (right, bottom), (0, 0, 255), cv2.FILLED)
         font = cv2.FONT_HERSHEY_DUPLEX
         cv2.putText(frame, name, (left + 6, bottom - 6), font, 1.0, (255, 255, 255), 1)
+    
+    return frame
 
-    cv2.imshow('Video', frame)
-
-    if cv2.waitKey(1) == 27:
-        break
-
-# Release handle to the webcam
-video_capture.release()
-cv2.destroyAllWindows()
+demo = gr.Interface(
+    inference, 
+    gr.Image(sources=["webcam"], streaming=True), 
+    "image",
+    live=True
+)
+demo.launch()
